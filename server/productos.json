@@ -1,0 +1,26 @@
+[
+	{
+		"title": "birrita",
+		"price": "250",
+		"url": "img",
+		"id": 1
+	},
+	{
+		"title": "cigarro",
+		"price": 140,
+		"url": "img2",
+		"id": 2
+	},
+	{
+		"title": "cigarro",
+		"price": 140,
+		"url": "img2",
+		"id": 3
+	},
+	{
+		"title": "cigarro caja 20",
+		"price": 220,
+		"url": "img2",
+		"id": 4
+	}
+]
